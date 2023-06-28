@@ -1,6 +1,6 @@
 #include <LPC21xx.H>
 #include "timer.h"
-
+//hahas
 #define mCOUNTER_ENABLE (1<<0)
 #define mCOUNTER_RESET (1<<1)
 #define mRESET_ON_MR0 (1<<1)
